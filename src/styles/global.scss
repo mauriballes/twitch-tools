@@ -1,0 +1,11 @@
+@import 'typography';
+@import 'colors';
+
+html,
+body {
+    font-family: "Office Code Pro", Arial, Helvetica, sans-serif;
+    background-color: $primary;
+    color: $white;
+    margin: 0;
+    padding: 0;
+}
